@@ -35,7 +35,7 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="azure" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="c#" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".net" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://learn.microsoft.com/en-us/dotnet/media/dotnet-logo.png" alt=".net" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="sql server" width="40" height="40"/> </a>
 </p>
 
