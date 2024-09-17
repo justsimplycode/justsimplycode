@@ -49,7 +49,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/shaswat791/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justsimplycode" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/justsimplecoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justsimplycode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/justsimplecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justsimplycode" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/justsimplecode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="justsimplycode" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/justsimplecode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="justsimplycode" height="30" width="40" /></a>
 </p>
