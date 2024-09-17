@@ -13,7 +13,6 @@
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:shaswat.shukla791@gmail.com) 
 - ⚡ Fun fact: I love to play chess
-- Profile views: ![](https://komarev.com/ghpvc/?username=justsimplycode)
 
 <br>
 <h2>📊 Github Stats</h2>
