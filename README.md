@@ -3,17 +3,13 @@
 
 <h2 align="center">Checkout my craft on LLD, OOD, and microservices patterns using domain modeling & object-oriented principles</h2>
 
-- [**CommentSense**](https://github.com/justsimplycode/CommentSense):  
-  An intelligent filtering solution built on a microservice framework with dependency injection patterns, enabling seamless categorization of user comments.
+- [**CommentSense**](https://github.com/justsimplycode/CommentSense): An intelligent filtering solution built on a microservice framework with dependency injection patterns, enabling seamless categorization of user comments.
 
-- [**The Managed Desk**](https://github.com/justsimplycode/The-Manged-Desk---LLD):  
-  A comprehensive task management system built using object-oriented principles.
+- [**The Managed Desk**](https://github.com/justsimplycode/The-Manged-Desk---LLD): A comprehensive task management system built using object-oriented principles.
 
-- [**Chess Game**](https://github.com/justsimplycode/ChessGame):  
-  A fully functional chess game implementation with a focus on clean design.
+- [**Chess Game**](https://github.com/justsimplycode/ChessGame): A fully functional chess game implementation with a focus on clean design.
 
-- [**Tic Tac Toe**](https://github.com/justsimplycode/TicTacToe):  
-  A classic Tic Tac Toe game demonstrating domain modeling.
+- [**Tic Tac Toe**](https://github.com/justsimplycode/TicTacToe): A classic Tic Tac Toe game demonstrating domain modeling.
 
 ## Things I am Passionate About
 - System Design & Architecture (Microservices, Distributed Systems)
@@ -40,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/azure/devops/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azuredevops/microsoft_azuredevops-icon.svg" alt="Azure DevOps" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Azure_DevOps_logo.svg/1200px-Azure_DevOps_logo.svg.png" alt="Azure DevOps" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
