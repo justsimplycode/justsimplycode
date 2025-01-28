@@ -91,7 +91,3 @@
 - 📧 Email: [shaswat.shukla791@gmail.com](mailto:shaswat.shukla791@gmail.com)
 - 💼 LinkedIn: [Shaswat Shukla](https://www.linkedin.com/in/shaswat791/)
 - 👨‍💻 GitHub: [justsimplycode](https://github.com/justsimplycode)
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justsimplycode&show_icons=true&locale=en&layout=compact" alt="justsimplycode" />
-</p>
