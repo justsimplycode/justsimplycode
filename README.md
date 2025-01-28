@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
 </p>
 
@@ -48,26 +48,29 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/azure/devops/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Azure_DevOps_logo.svg/1200px-Azure_DevOps_logo.svg.png" alt="Azure DevOps" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
 
-### Databases
+### Data stores
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
   <a href="https://learn.microsoft.com/en-us/azure/cosmos-db/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Cosmos DB" width="40" height="40"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
   <a href="https://www.oracle.com/database/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   </a>
 </p>
 
@@ -84,7 +87,7 @@
   </a>
 </p>
 
-## Let’s Connect!
+## Wanna reach out to me? Click on below links
 - 📧 Email: [shaswat.shukla791@gmail.com](mailto:shaswat.shukla791@gmail.com)
 - 💼 LinkedIn: [Shaswat Shukla](https://www.linkedin.com/in/shaswat791/)
 - 👨‍💻 GitHub: [justsimplycode](https://github.com/justsimplycode)
