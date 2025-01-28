@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Shaswat Shukla</h1>
 <h2 align="center">A passionate Backend Engineer with expertise in C#, .NET, and Microsoft Azure & Senior Software Engineer (SDE-2) at NUMR CXM</h2>
 
-## Checkout my craft on LLD, OOD, and microservices patterns using domain modeling & object-oriented principles
+<h2 align="center">Checkout my craft on LLD, OOD, and microservices patterns using domain modeling & object-oriented principles</h2>
 - [CommentSense](https://github.com/justsimplycode/CommentSense): An intelligent filtering solution built on a microservice framework with dependency injection patterns, enabling seamless categorization of user comments.
 - [The Managed Desk](https://github.com/justsimplycode/The-Manged-Desk---LLD): A comprehensive task management system built using object-oriented principles.
 - [Chess Game](https://github.com/justsimplycode/ChessGame): A fully functional chess game implementation with a focus on clean design.
@@ -10,7 +10,7 @@
 ## Things I am Passionate About
 - System Design & Architecture (Microservices, Distributed Systems)
 - Clean Code and Best Practices
-- Ensuring robust monitoring and actionable observability with Application Insights
+- Ensuring system resilience and delivering scalable, high-performance solutions
 
 ## Technical Expertise
 ### Programming & Frameworks
@@ -18,8 +18,8 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://img.icons8.com/ios-filled/50/4a90e2/dot-net.png" alt=".NET" width="40" height="40"/> 
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40" height="40"/>
   </a>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/azure/devops/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/azuredevops/azuredevops-icon.svg" alt="Azure DevOps" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Azure_DevOps_Logo.svg/120px-Azure_DevOps_Logo.svg.png" alt="Azure DevOps" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
