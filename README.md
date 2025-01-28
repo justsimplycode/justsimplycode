@@ -1,69 +1,16 @@
-### Hi there, I'm Shaswat Shukla 👋 
-<p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
-
-
-
-<br>
-<br>
-
-
-- 🔭 I am honing my skills in Azure Cloud, C# & .NET.
-- 🌱 I am currently Working as a Software Engineer II @ Rebuscode.
-- 👯 I’m always looking for great opportunities & striving for more.
-- 💬 Ask me About Web development and Web Technolgies.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:shaswat.shukla791@gmail.com) 
-- ⚡ Fun fact: I love to play chess
-
-<br>
-<h2>📊 Github Stats</h2>
-
-![Shaswat's github stats](https://github-readme-stats.vercel.app/api?username=justsimplycode&theme=onedark)
-
-<br>
-
-<br />
-
-### Languages and Tools:
-
-<p align="left"> 
-  <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="azure" width="40" height="40"/> </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="c#" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://learn.microsoft.com/en-us/dotnet/media/dotnet-logo.png" alt=".net" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="sql server" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
-</p>
-
-
-
----
-
-
-  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shaswat791/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justsimplycode" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/justsimplecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justsimplycode" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/justsimplecode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="justsimplycode" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/justsimplecode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="justsimplycode" height="30" width="40" /></a>
-</p>
-
-
-
-
 <h1 align="center">Hello, I am Shaswat Shukla</h1>
 <h2 align="center">A passionate Backend Engineer with expertise in C#, .NET, and Microsoft Azure & Senior Software Engineer (SDE-2) at NUMR CXM</h2>
 
-## My Work & Projects
-Here are some of the projects I’ve worked on, showcasing my backend engineering skills:
+## Checkout my craft on LLD, OOD, and microservices patterns using domain modeling & object-oriented principles
 - [CommentSense](https://github.com/justsimplycode/CommentSense): An intelligent filtering solution built on a microservice framework with dependency injection patterns, enabling seamless categorization of user comments.
-- [StaffTrack](https://github.com/justsimplycode/StaffTrack): A staff management system with robust backend operations.
+- [The Managed Desk](https://github.com/justsimplycode/The-Manged-Desk---LLD): A comprehensive task management system built using object-oriented principles.
+- [Chess Game](https://github.com/justsimplycode/ChessGame): A fully functional chess game implementation with a focus on clean design.
+- [Tic Tac Toe](https://github.com/justsimplycode/TicTacToe): A classic Tic Tac Toe game demonstrating domain modeling.
+
+## Things I am Passionate About
+- System Design & Architecture (Microservices, Distributed Systems)
+- Clean Code and Best Practices
+- Ensuring robust monitoring and actionable observability with Application Insights
 
 ## Technical Expertise
 ### Programming & Frameworks
@@ -71,8 +18,8 @@ Here are some of the projects I’ve worked on, showcasing my backend engineerin
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  <a href="https://dotnet.microsoft.com/" target="_blank"> 
+    <img src="https://img.icons8.com/ios-filled/50/4a90e2/dot-net.png" alt=".NET" width="40" height="40"/> 
   </a>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -121,11 +68,6 @@ Here are some of the projects I’ve worked on, showcasing my backend engineerin
   </a>
 </p>
 
-## Things I am Passionate About
-- System Design & Architecture (Microservices, Distributed Systems)
-- Clean Code and Best Practices
-- Monitoring and Observability using Application Insights
-
 ## Let’s Connect!
 - 📧 Email: [shaswat.shukla791@gmail.com](mailto:shaswat.shukla791@gmail.com)
 - 💼 LinkedIn: [Shaswat Shukla](https://www.linkedin.com/in/shaswat791/)
@@ -134,5 +76,3 @@ Here are some of the projects I’ve worked on, showcasing my backend engineerin
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justsimplycode&show_icons=true&locale=en&layout=compact" alt="justsimplycode" />
 </p>
-
-
