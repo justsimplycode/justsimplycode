@@ -58,7 +58,7 @@
 
 
 <h1 align="center">Hello, I am Shaswat Shukla</h1>
-<h2 align="center">A passionate Backend Engineer with expertise in C#, .NET, and Microsoft Azure</h2>
+<h2 align="center">A passionate Backend Engineer with expertise in C#, .NET, and Microsoft Azure & Senior Software Engineer (SDE-2) at NUMR CXM</h2>
 
 ## My Work & Projects
 Here are some of the projects I’ve worked on, showcasing my backend engineering skills:
