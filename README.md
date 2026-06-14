@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Shaswat Shukla</h1>
-<h2 align="center">A passionate Backend Engineer with expertise in C#, .NET, and Microsoft Azure & Senior Software Engineer (SDE-2) at NUMR CXM</h2>
+<h2 align="center">A passionate Backend Engineer with expertise in C#, .NET, and Microsoft Azure & Senior Software Engineer (SDE-2) at Dunnhumby</h2>
 
 <h2 align="center">Checkout my craft on LLD, OOD, and microservices patterns using domain modeling & object-oriented principles</h2>
 
@@ -17,7 +17,8 @@
 - Ensuring system resilience and delivering scalable, high-performance solutions
 
 ## Technical Expertise
-### Programming & Frameworks
+
+### Programming & Backend
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -28,60 +29,80 @@
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="REST API" width="40" height="40"/>
   </a>
 </p>
 
-### Cloud & DevOps
+### Cloud Platforms
 <p align="left">
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+  </a>
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com/bigquery" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
+  </a>
+</p>
+
+### DevOps & Infrastructure
+<p align="left">
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/azure/devops/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <a href="https://octopus.com/" target="_blank">
+    <img src="https://octopus.com/favicon.ico" alt="Octopus Deploy" width="40" height="40"/>
   </a>
 </p>
 
-### Data stores
+### Databases & Messaging
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/azure/cosmos-db/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Cosmos DB" width="40" height="40"/>
-  </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/cosmos-db/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Cosmos DB" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/database/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <a href="https://cloud.google.com/pubsub" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Pub/Sub" width="40" height="40"/>
   </a>
 </p>
 
-### Tools
+### Tools & Monitoring
 <p align="left">
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/products/compass" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB Compass" width="40" height="40"/>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="GitHub Copilot" width="40" height="40"/>
+  </a>
+</p>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
