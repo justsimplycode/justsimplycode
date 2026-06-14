@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Shaswat Shukla</h1>
-<h2 align="center">A passionate Backend Engineer with expertise in C#, .NET, and Microsoft Azure & Senior Software Engineer (SDE-2) at Dunnhumby</h2>
+<h2 align="center">SWE @ dunnhumby | Backend & Platform Engineering | C#/.NET | GCP & Microsoft Azure | Kubernetes, Terraform | Distributed Systems | Microservices | Data Platform Engineering | CI/CD & Cloud Infrastructure</h2>
 
 <h2 align="center">Checkout my craft on LLD, OOD, and microservices patterns using domain modeling & object-oriented principles</h2>
 
